@@ -1,0 +1,4 @@
+{
+  "databaseUrl": "mongodb+srv://codingChallengeUser:codingChallengePassword@cluster0-bh1je.mongodb.net/codingChallenge",
+  "jsonWebTokenSecret": "supersecretkey"
+}
